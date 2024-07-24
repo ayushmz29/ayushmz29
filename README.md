@@ -12,70 +12,69 @@
 # 💻 Tech Stack:
 #### Languages
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![Go](https://img.shields.io/badge/-Go-000?style=for-the-badge&logo=go&logoColor=00ADD8)
 
 #### Frameworks/Libraries
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
-![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) 
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) 
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-000?style=for-the-badge&logo=spring&logoColor=6DB33F)
+![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=angular&logoColor=DD0031)
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=redux&logoColor=764ABC)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![Styled Components](https://img.shields.io/badge/-Styled_Components-000?style=for-the-badge&logo=styled-components&logoColor=DB7093)
+![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass&logoColor=CC6699)
+![RxJS](https://img.shields.io/badge/-RxJS-000?style=for-the-badge&logo=reactivex&logoColor=B7178C)
+![Apache Kafka](https://img.shields.io/badge/-Apache_Kafka-000?style=for-the-badge&logo=apache-kafka&logoColor=231F20)
+![Hibernate](https://img.shields.io/badge/-Hibernate-000?style=for-the-badge&logo=hibernate&logoColor=59666C)
 
 #### Build Tools/Package Managers
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) 
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) 
-![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) 
+![Apache Maven](https://img.shields.io/badge/-Apache_Maven-000?style=for-the-badge&logo=apache-maven&logoColor=C71A36)
+![Gradle](https://img.shields.io/badge/-Gradle-000?style=for-the-badge&logo=gradle&logoColor=02303A)
+![Vite](https://img.shields.io/badge/-Vite-000?style=for-the-badge&logo=vite&logoColor=646CFF)
+![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm&logoColor=CB3837)
+![Yarn](https://img.shields.io/badge/-Yarn-000?style=for-the-badge&logo=yarn&logoColor=2C8EBB)
+![PNPM](https://img.shields.io/badge/-PNPM-000?style=for-the-badge&logo=pnpm&logoColor=f69220)
 
 #### Databases
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Postgres](https://img.shields.io/badge/-Postgres-000?style=for-the-badge&logo=postgresql&logoColor=316192)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/-Redis-000?style=for-the-badge&logo=redis&logoColor=DC382D)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 #### Cloud/Deployment
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
 
 #### Version Control/CI/CD
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-000?style=for-the-badge&logo=github-actions&logoColor=2088FF)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-000?style=for-the-badge&logo=bitbucket&logoColor=0052CC)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?style=for-the-badge&logo=jenkins&logoColor=D24939)
 
 #### API Development/Testing
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-000?style=for-the-badge&logo=swagger&logoColor=85EA2D)
+![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 #### Project Management/Collaboration
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-000?style=for-the-badge&logo=jira&logoColor=0052CC)
+![Trello](https://img.shields.io/badge/-Trello-000?style=for-the-badge&logo=trello&logoColor=0052CC)
+![Notion](https://img.shields.io/badge/-Notion-000?style=for-the-badge&logo=notion&logoColor=white)
 
 #### Code Quality/Analysis
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
-![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) 
-![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)
+![ESLint](https://img.shields.io/badge/-ESLint-000?style=for-the-badge&logo=eslint&logoColor=4B32C3)
+![SonarQube](https://img.shields.io/badge/-SonarQube-000?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+![SonarLint](https://img.shields.io/badge/-SonarLint-000?style=for-the-badge&logo=sonarlint&logoColor=CB2029)
 
 #### Design/UI Tools
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/-Adobe_After_Effects-000?style=for-the-badge&logo=adobe-after-effects&logoColor=9999FF)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-000?style=for-the-badge&logo=adobe-illustrator&logoColor=FF9A00)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-000?style=for-the-badge&logo=adobe-photoshop&logoColor=31A8FF)
+![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe_Premiere_Pro-000?style=for-the-badge&logo=adobe-premiere-pro&logoColor=9999FF)
+![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
 #### Other Tools
 ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white) 
