@@ -21,6 +21,7 @@
 ![Go](https://img.shields.io/badge/-Go-000?style=for-the-badge&logo=go&logoColor=00ADD8)
 
 #### Frameworks/Libraries
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=spring-boot&logoColor=6DB33F)
 ![Spring](https://img.shields.io/badge/-Spring-000?style=for-the-badge&logo=spring&logoColor=6DB33F)
 ![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=angular&logoColor=DD0031)
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
