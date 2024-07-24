@@ -2,8 +2,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=ayushmz29&icon=3&color=4)](https://visitcount.itsvg.in)
 
----
-
 # 💫 About Me:
 🌱 Full-stack Software Engineer passionate about continuous learning. <br>⚡ Skilled in Java, Spring Boot, and Angular/React, with experience in microservices and both SQL/NoSQL databases. <br>👯 Always eager to tackle new challenges and contribute to innovative projects.<br>🔭 Currently expanding horizons by learning Go.<br><br><br><br>
 
@@ -89,6 +87,8 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ayushmz29&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
