@@ -7,7 +7,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushmz29) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ayushh29) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/ayushmz29)
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ayushh29)
 
 # 💻 Tech Stack:
 #### Languages
@@ -77,8 +78,8 @@
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
 #### Other Tools
-![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white) 
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+![Rancher](https://img.shields.io/badge/rancher-000?style=for-the-badge&logo=rancher&logoColor=0075A8)
+![TOR](https://img.shields.io/badge/tor-000?style=for-the-badge&logo=tor-project&logoColor=7E4798)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ayushmz29&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
