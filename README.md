@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayush Mazumdar</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushmz29&label=Profile%20views&color=d44211&style=flat" alt="ayushmz29" /> </p>
+[![](https://visitcount.itsvg.in/api?id=ayushmz29&icon=3&color=4)](https://visitcount.itsvg.in)
+
+---
 
 # 💫 About Me:
 🌱 Full-stack Software Engineer passionate about continuous learning. <br>⚡ Skilled in Java, Spring Boot, and Angular/React, with experience in microservices and both SQL/NoSQL databases. <br>👯 Always eager to tackle new challenges and contribute to innovative projects.<br>🔭 Currently expanding horizons by learning Go.<br><br><br><br>
@@ -95,5 +97,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ayushmz29&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ayushmz29&icon=3&color=4)](https://visitcount.itsvg.in)
-
