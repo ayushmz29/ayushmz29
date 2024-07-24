@@ -3,7 +3,10 @@
 [![](https://visitcount.itsvg.in/api?id=ayushmz29&icon=3&color=4)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🌱 Full-stack Software Engineer passionate about continuous learning. <br>⚡ Skilled in Java, Spring Boot, and Angular/React, with experience in microservices and both SQL/NoSQL databases. <br>👯 Always eager to tackle new challenges and contribute to innovative projects.<br>🔭 Currently expanding horizons by learning Go.<br><br><br><br>
+🌱Full-stack engineer passionate about coding solutions that impact thousands of lives. <br>
+⚡ Skilled in Java, Spring Boot, and Angular/React, with experience in microservices and both SQL/NoSQL databases. <br>
+👯 Always eager to tackle new challenges and contribute to innovative projects.<br>
+🔭 Currently expanding horizons by learning Go.<br><br><br><br>
 
 
 ## 🌐 Socials:
