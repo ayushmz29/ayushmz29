@@ -97,3 +97,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ayushmz29&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ---
+
+<p align="center">
+<img src="https://github.com/ayushmz29/ayushmz29/blob/output/github-contribution-grid-snake.svg">
+</p>
