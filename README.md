@@ -103,6 +103,11 @@
 
 ---
 
+"Thank You For Visiting My Profile"
+
+---
+🐍 Following snake animation is powered by Github Actions 😊
+
 <p align="center">
 <img src="https://github.com/ayushmz29/ayushmz29/blob/output/github-contribution-grid-snake.svg">
 </p>
