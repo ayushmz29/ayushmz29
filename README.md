@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Mazumdar</h1>
 
 [![](https://visitcount.itsvg.in/api?id=ayushmz29&icon=3&color=4)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=ayushmz29&color=red)
 
 # 💫 About Me:
 🌱 Full-stack engineer passionate about coding solutions that impact thousands of lives. <br>
